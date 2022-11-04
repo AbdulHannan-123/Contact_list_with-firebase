@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "593496279360",
+    "project_id": "contactmess",
+    "storage_bucket": "contactmess.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593496279360:android:d3fe16b23f8066d4d092a5",
+        "android_client_info": {
+          "package_name": "com.example.phone_contacts_fatching"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593496279360-in9apeqijoqvumdcng8mg3mathfv6bnp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phone_contacts_fatching",
+            "certificate_hash": "4a24b30074f56192a69e48607db16b7ab939dbc9"
+          }
+        },
+        {
+          "client_id": "593496279360-sk8ajqlko0ca273rmhlfl0g9dirosra3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfO7pNpURF-VrLNlI--Lb7SKowaZ3Uai8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593496279360-sk8ajqlko0ca273rmhlfl0g9dirosra3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
